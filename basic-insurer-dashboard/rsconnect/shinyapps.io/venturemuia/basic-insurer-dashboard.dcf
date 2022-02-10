@@ -1,0 +1,13 @@
+name: basic-insurer-dashboard
+title: basic-insurer-dashboard
+username:
+account: venturemuia
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4962531
+bundleId: 5181234
+url: https://venturemuia.shinyapps.io/basic-insurer-dashboard/
+when: 1635307242.91407
+lastSyncTime: 1635307242.91407
+asMultiple: FALSE
+asStatic: FALSE
