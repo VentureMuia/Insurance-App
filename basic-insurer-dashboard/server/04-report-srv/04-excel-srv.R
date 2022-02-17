@@ -100,7 +100,7 @@ output$generate_excel_report <- downloadHandler(
     insertImage(
       to_download,
       sheet = 1,
-      file = "server/04-report-srv/images/tychobra_logo_blue_co_name.png",
+      file = " ",
       width = 5,
       height = 1.25,
       startRow = 1,
